@@ -1,0 +1,72 @@
+.header-section{
+    background-color: #FBD062;
+    margin-bottom: 110px;
+}
+.header-section .logo{
+    height: 40px;
+    width: auto;
+    margin-top: 10px;
+}
+.header-section ul{
+    margin-top: 30px;
+}
+.header-section ul li{}
+.header-section ul li a{
+    color: white;
+}
+.header-section ul li a button{}
+.header-section ul li a:hover{}
+.banner-img{
+    height: 300px;
+    width: auto;
+}
+.header-section::after {
+    content: "";
+    border-left: 1265px solid #FBD062;
+    border-bottom: 130px solid transparent;
+}
+.logo-section ul li a img{
+    height: 30px;
+}
+.card img{
+    height: auto;
+    width: 70px;
+    margin: 10px auto;
+}
+
+.card-img-own{
+    width: 80px;
+    height: auto;
+}
+.card-own{
+    border-radius: 8px;
+    border: 1px solid #333;
+    padding: 10px 1px 3px 10px;
+}
+/* input-section */
+.input-section{
+    background-color: #FBD062;
+    padding: 40px;
+}
+.font-size-small{
+    font-size: 11px;
+}
+
+.small-input{
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+    border: none;
+    padding: 0 30px;
+}
+.big-input{
+    padding-bottom: 200px;
+    padding-top: 17px;
+    padding-left: 30px;
+    width: 100%;
+    background-color: #fff;
+    border: none;
+}
+.btn-big{
+    padding: 5px 50px;
+}
